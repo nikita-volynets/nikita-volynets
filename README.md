@@ -2,6 +2,15 @@
 
 ### Analytics & Data Enthusiast
 
+**It's my top-5 list of resources for learning SQL:**
+
+* [stratascratch.com](https://datalemur.com/)
+* [schoolsw3.com](https://www.schoolsw3.com/)
+* [sql-ex.ru](https://www.sql-ex.ru/)
+* [sql-academy.org](https://sql-academy.org/en)
+* [HackerRank ](https://www.hackerrank.com/)
+
+
 <!--
 **nikita-volynets/nikita-volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

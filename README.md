@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikita-volynets/)
 
-**Here is my top-5 list of resources for learning SQL:**
+**Here is my top-5 resources for learning SQL:**
 
 * [DataLemur](https://datalemur.com/)
 * [schoolsw3.com](https://www.schoolsw3.com/)

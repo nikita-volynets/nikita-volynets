@@ -2,6 +2,8 @@
 
 ### Analytics & Data Enthusiast
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikita-volynets/)
+
 **Here is my top-5 list of resources for learning SQL:**
 
 * [DataLemur](https://datalemur.com/)
@@ -10,7 +12,7 @@
 * [sql-academy.org](https://sql-academy.org/en)
 * [HackerRank ](https://www.hackerrank.com/)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikita-volynets/)
+
 
 
 <!--

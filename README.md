@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikita-volynets/)
 
-- 🔭 My Modern Data Stack project: [Snowflake+DBT+Hex+Sigma](https://github.com/nikita-volynets/paradime-dbt-nba-challenge)
+- 🔭 My Modern Data Stack project: [Snowflake+DBT+Hex+Sigma](https://github.com/nikita-volynets/nba-challenge-dbt-paradime)
 
 <!--
 **nikita-volynets/nikita-volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

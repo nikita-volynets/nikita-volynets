@@ -6,7 +6,7 @@
 
 - 🔭 My Modern Data Stack project: [Snowflake+DBT+Hex+Sigma](https://github.com/nikita-volynets/nba-challenge-dbt-paradime)
 
-## My Certifications
+### My Certifications
 
 - DBT Analytics Egingeering Certification: 
 

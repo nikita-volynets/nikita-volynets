@@ -6,6 +6,12 @@
 
 - 🔭 My Modern Data Stack project: [Snowflake+DBT+Hex+Sigma](https://github.com/nikita-volynets/nba-challenge-dbt-paradime)
 
+## My Certifications
+
+- DBT Analytics Egingeering Certification: 
+
+- Google Cloud Certification: 
+
 <!--
 **nikita-volynets/nikita-volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

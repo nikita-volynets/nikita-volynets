@@ -10,7 +10,7 @@
 
 - [DBT Analytics Egingeering Certificate](https://credentials.getdbt.com/1b04ec42-4a93-4bd5-9756-a0293e616d67)
 
-- Google Cloud Certification: 
+- [Google Cloud Certificate](https://www.credly.com/badges/9a52f9fc-a16b-481f-bf1c-efbb796263b8)
 
 <!--
 **nikita-volynets/nikita-volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

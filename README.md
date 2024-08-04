@@ -8,7 +8,7 @@
 
 #### My Certifications
 
-- [DBT Analytics Egingeering Certification](https://credentials.getdbt.com/1b04ec42-4a93-4bd5-9756-a0293e616d67)
+- [DBT Analytics Egingeering Certificate](https://credentials.getdbt.com/1b04ec42-4a93-4bd5-9756-a0293e616d67)
 
 - Google Cloud Certification: 
 

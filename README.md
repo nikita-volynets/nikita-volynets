@@ -8,7 +8,9 @@
 
 #### My Certifications
 
-- [DBT Analytics Egingeering Certificate](https://credentials.getdbt.com/1b04ec42-4a93-4bd5-9756-a0293e616d67)
+- [dbt Analytics Egingeering Certificate](https://credentials.getdbt.com/1b04ec42-4a93-4bd5-9756-a0293e616d67)
+
+- [dbt Cloud Architect Certificate](https://credentials.getdbt.com/aea25a31-1c50-4999-8002-4368fceafb52)
 
 - [Google Cloud Certificate](https://www.credly.com/badges/9a52f9fc-a16b-481f-bf1c-efbb796263b8)
 

@@ -17,7 +17,7 @@
 #### My Articles
 
 - [What Is dbt Fusion and Why Should You Care](https://substack.com/@nikitavolynets/note/p-190561417)
-- [How To Pass dbt Cloud Architect Certification Exam](https://nikitavolynets.substack.com/p/how-to-pass-dbt-cloud-architect-exam)
+- [How To Pass dbt Cloud Architect Certification Exam](https://open.substack.com/pub/nikitavolynets/p/what-is-dbt-fusion-and-why-should?r=2s6tdg&utm_campaign=post&utm_medium=web)
 
 <!--
 **nikita-volynets/nikita-volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
